@@ -1,2 +1,11 @@
 # Redflag-OS
-A x86_64 OS entirely made in Assembly. Very Basic. Just ask to be a contributor.
+=============
+ Basic OS x86_64 boot of floppy.
+# Changelog
+
+v0.1
+============
+  Initial Creation
+  
+  Added the OS online
+ 
