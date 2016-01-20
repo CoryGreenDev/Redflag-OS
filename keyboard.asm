@@ -2,7 +2,7 @@
 ; MikeOS -- The Mike Operating System kernel
 ; Copyright (C) 2006 - 2014 MikeOS Developers -- see doc/LICENSE.TXT
 ;
-; KEYBOARD HANDLING ROUTINES
+; KEYBOARD HANDLING ROUTINES (Re-Programmed by Cory Green)
 ; ==================================================================
 
 ; ------------------------------------------------------------------
