@@ -3,6 +3,7 @@
 ; Copyright (C) 2006 - 2014 MikeOS Developers -- see doc/LICENSE.TXT
 ;
 ; COMMAND LINE INTERFACE
+; Was not edited, made entirely by Mike.
 ; ==================================================================
 
 
