@@ -1,10 +1,7 @@
 ; ==================================================================
-; MikeOS -- The Mike Operating System kernel
-; Copyright (C) 2006 - 2014 MikeOS Developers -- see doc/LICENSE.TXT
-;
-; BASIC CODE INTERPRETER (4.5)
+;	Offically made by Mike, the creator of Mike OS
 ; ==================================================================
-
+;	Re-Programmed by Cory Green
 ; ------------------------------------------------------------------
 ; Token types
 
