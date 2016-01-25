@@ -3,7 +3,7 @@
  Basic OS 16 bit Operating System (x_86)
 # Changelog
 
-v1.1
+v2.1
 
 
 
@@ -17,3 +17,10 @@ Vist Here: https://github.com/CoryGreenDev/Redflag-OS/wiki
 USED MIKEOS FILES, YOU CAN VIEW HIS CODE HERE. 
 
 https://github.com/mig-hub/mikeOS
+
+============
+
+Made A distro of OPenSUSE 13.2
+
+Look at the file labled OPenSUSE13.2.txt
+for download.
