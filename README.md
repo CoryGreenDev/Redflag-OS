@@ -22,5 +22,5 @@ https://github.com/mig-hub/mikeOS
 
 Made A distro of OPenSUSE 13.2
 
-Look at the file labled OPenSUSE13.2.txt
+Look at the file labeled OPenSUSE13.2.txt
 for download.
