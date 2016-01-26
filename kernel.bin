@@ -1,13 +1,5 @@
 ; =======================================================================================
-; MikeOS -- The Mike Operating System kernel
-; Copyright (C) 2006 - 2014 MikeOS Developers -- see doc/LICENSE.TXT
-;
-; This is loaded from the drive by BOOTLOAD.BIN, as KERNEL.BIN.
-; First we have the system call vectors, which start at a static point
-; for programs to use. Following that is the main kernel code and
-; then additional system call code is included.
-
-;  Edited by Cory Green. The files are not mine, this ENTIRE OS is based from the Mike OS
+; THIS Version has been depreciated. Vist the OPenSUSE 13.2.txt file to view the new OS (WITH GUI :D)
 ; ========================================================================================t
 
 
